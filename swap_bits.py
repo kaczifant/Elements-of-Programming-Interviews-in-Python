@@ -1,4 +1,4 @@
-# Implement code that takes as input a 64-bit integer and swaps the bits at indices i and j.
+# 4.2 SWAP BITS - Implement code that takes as input a 64-bit integer and swaps the bits at indices i and j.
 
 from test_framework import generic_test
 
