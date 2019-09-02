@@ -1,3 +1,7 @@
+# 4.3 REVERSE BITS - Write a program that takes a 64-bit unsigned integer and returns the 64-bit unsigned integer consisting
+# of the bits of the input in reverse order. For example, if the input is (1110000000000001), 
+# the output should be (1000000000000111).
+
 from test_framework import generic_test
 
 
